@@ -1,0 +1,14 @@
+.clickable {
+  background-color: black;
+  color: white;
+}
+
+.unclickable {
+  background-color: yellow;
+}
+
+.clickable,
+.unclickable {
+  font-size: 28px;
+  font-family: Helvetica, "Times New Roman", sans-serif;
+}
